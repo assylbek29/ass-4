@@ -1,0 +1,60 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    background-image: url(https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color:black;
+    filter: alpha(Opacity=70); 
+    font-size: 27px;
+    letter-spacing: 2px;
+    
+  }
+
+.block {
+    background: white; 
+    padding: 5px; 
+    opacity: 0.8; 
+    }
+    
+#education {
+    font-size: 22px;
+}
+#networth {
+    font-size: 22px;
+}
+#skills {
+    font-size: 22px;
+}
+#reputation {
+    font-size: 19px;
+}
+
+#age {
+    font-size: 22px;
+}
+h1 {
+    font-size: 75px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+h3,p {
+    padding-top: 1%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#firstname {
+    font-size: 22px;
+}
+
+#startingbid {
+    font-size: 22px;
+}
+
+#love {
+    color: red;
+}
+#love_letter{
+    color: red;
+    font-size: 20px;
+}
